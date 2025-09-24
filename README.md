@@ -1,4 +1,3 @@
-````markdown
 # 🚗 SKN20-1ST-2TEAM  
 
 ![cover](https://img.shields.io/badge/Project-Car_Registration_FAQ-blue)  
@@ -146,9 +145,3 @@
 * **AI 기반 서비스 확장 가능성**
   을 제시했다는 점에서 **데이터 기반 정책·산업 혁신**에 기여할 수 있다.
 
-```
-
-
-
-원하시나요, 제가 여기서 **README에 들어갈 대표 시각화 이미지 경로(place holder)** 도 추가해서 더 완성도를 높여드릴까요?
-```
