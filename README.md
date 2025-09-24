@@ -1,4 +1,4 @@
-# 🚗 SKN20-1ST-2TEAM  
+# 🚗 SKN20-1ST-2TEAM AutoVision
 
 ![cover](https://img.shields.io/badge/Project-Car_Registration_FAQ-blue)  
 > **SK Networks Family AI Camp 20기 – 1차 프로젝트 산출물**  
